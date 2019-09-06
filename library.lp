@@ -1,0 +1,11 @@
+(librepcb_library 233df930-2e5b-4305-8ce5-3bfe6213cbf6
+ (name "NXP")
+ (description "NXP Semiconductors library (unofficial).")
+ (keywords "nxp")
+ (author "LibrePCB")
+ (version "0.1")
+ (created 2019-09-06T15:47:40Z)
+ (deprecated false)
+ (url "https://github.com/LibrePCB-Libraries/NXP.lplib")
+ (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
+)
